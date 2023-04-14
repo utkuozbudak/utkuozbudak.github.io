@@ -12,8 +12,8 @@ Description of the face recognition project.
 
 ### Wine Quality Prediction
 
-As a red wine enthusiast, I embarked on a quest to uncover the factors that contribute to a wine's quality. My Red Wine Quality Prediction project begins with exploratory data analysis, followed by the use of oversampling and SMOTE techniques to address class imbalance. I then trained and evaluated various models before selecting the best performer for further fine-tuning. Explore my process and findings in this exciting data-driven project from below links 
+As a red wine enthusiast, I embarked on a quest to uncover the factors that contribute to a wine's quality. My Red Wine Quality Prediction project begins with exploratory data analysis, followed by the use of oversampling and SMOTE techniques to address class imbalance. I then trained and evaluated various models before selecting the best performer for further fine-tuning. Explore my process and findings in this exciting data-driven project from below links.
 
-[Nb Viewer](https://nbviewer.org/github/utkuozbudak/wine_quality_prediction/blob/main/wine_quality.ipynb) [GitHub](https://github.com/utkuozbudak/wine_quality_prediction) [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009).
+[Nb Viewer](https://nbviewer.org/github/utkuozbudak/wine_quality_prediction/blob/main/wine_quality.ipynb) [GitHub](https://github.com/utkuozbudak/wine_quality_prediction) [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
 ...
