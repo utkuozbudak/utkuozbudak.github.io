@@ -4,9 +4,11 @@ Welcome to my Data Science portfolio! My name is Osman Utku Ozbudak, and I am pa
 
 ## Stand-alone Projects
 
-### Face Recognition
+### Facial Recognition
 
-Description of the face recognition project.
+The face recognition task was accomplished in this project by implementing Siamese Networks, as proposed in the research paper "Siamese Neural Networks for One-shot Image Recognition" by Koch et al. Positive samples were obtained from my webcam, while negative samples were obtained from the LFW Face Database. The network was fed with anchor and validation images, which were then processed in the embedding layer using convolutions, and similarity (L1) was computed in the distance layer. Consequently, all anchor images were validated correctly. In addition, the network was able to correctly label the negative samples as false predictions. Therefore, the implementation of Siamese Networks not only accurately validated the positive anchor images, but also correctly identified the negative samples as unrelated to the validation set. To access the research paper and the project, refer to the GitHub repository of the project from below.
+
+[GitHub](https://github.com/utkuozbudak/facial-recognition)
 
 ## Classification Problems
 
