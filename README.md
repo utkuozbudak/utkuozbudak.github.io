@@ -16,9 +16,9 @@ As a red wine enthusiast, I embarked on a quest to uncover the factors that cont
 
 [Nb Viewer](https://nbviewer.org/github/utkuozbudak/wine_quality_prediction/blob/main/wine_quality.ipynb) [GitHub](https://github.com/utkuozbudak/wine_quality_prediction) [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
+## Regression Problems
+
 ### Graduate Admission
 I recall being thrilled when I applied to TUM for my Master's degree. As a result, I decided to investigate which factors are significant in enhancing one's admission chances, utilizing the Graduate Admission dataset from Kaggle. Initially, I conducted data analysis, followed by training and evaluating numerous models to determine the most effective one. Subsequently, additional analyses were performed. You can examine my approach and discoveries in this project through the links below.
 
 [NB Viewer](https://nbviewer.org/github/utkuozbudak/graduate_admission/blob/main/graduate_admission.ipynb) [GitHub](https://github.com/utkuozbudak/graduate_admission/blob/main/graduate_admission.ipynb) [Dataset](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
-
-...
