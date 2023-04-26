@@ -23,7 +23,7 @@ As a red wine enthusiast, I embarked on a quest to uncover the factors that cont
 ### Graduate Admission
 I recall being thrilled when I applied to TUM for my Master's degree. As a result, I decided to investigate which factors are significant in enhancing one's admission chances, utilizing the Graduate Admission dataset from Kaggle. Initially, I conducted data analysis, followed by training and evaluating numerous models to determine the most effective one. Subsequently, additional analyses were performed. You can examine my approach and discoveries in this project through the links below.
 
-[NB Viewer](https://nbviewer.org/github/utkuozbudak/graduate_admission/blob/main/graduate_admission.ipynb) [GitHub](https://github.com/utkuozbudak/graduate_admission/blob/main/graduate_admission.ipynb) [Dataset](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
+[NB Viewer](https://nbviewer.org/github/utkuozbudak/graduate_admission/blob/main/graduate_admission.ipynb) [GitHub](https://github.com/utkuozbudak/graduate_admission) [Dataset](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)
 
 ### Medical Cost Analysis
 We all value affordable health insurance costs and strive to maintain good health. My goal in this project was to investigate the factors that influence the cost of insurance for individuals. Initially, I conducted an exploratory data analysis to extract valuable insights that cannot be easily discerned from the raw data. Subsequently, I trained and fine-tuned multiple regression models. Consequently, I achieved an R-squared value of 88%. Please refer to the following links for a detailed overview of my methodology and approach in this project.
