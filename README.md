@@ -10,11 +10,11 @@ The face recognition task was accomplished in this project by implementing Siame
 
 [GitHub](https://github.com/utkuozbudak/facial-recognition)
 
-## Clustering Problems
+## Clustering Problems
 
 ### Customer Personality Analysis
 
-I am always thrilled to extract business strategies by analyzing customer data. In this particular project, I conducted a comprehensive exploratory data analysis using customer data to delve into various problems, such as why customers file complaints and what strategies can be employed to address them. Additionally, I employed clustering techniques to segment the customers into different clusters based on their characteristics. Using these clusters, I generated various marketing strategies that are tailored to the unique features of each group. Discover the process from below links (NbViewer is recommended for 3D plots)
+I am always thrilled to extract business strategies by analyzing customer data. In this project, I conducted a comprehensive exploratory data analysis using customer data to delve into various problems, such as why customers file complaints and what strategies can be employed to address them. Additionally, I employed clustering techniques to segment the customers into different clusters based on their characteristics. Using these clusters, I generated various marketing strategies that are tailored to the unique features of each group. Discover the process from below links (NbViewer is recommended for 3D plots)
 .
 
 [Nb Viewer](https://nbviewer.org/github/utkuozbudak/customer_personality_analysis/blob/main/customer_analysis.ipynb) [GitHub](https://nbviewer.org/github/utkuozbudak/customer_personality_analysis/blob/main/customer_analysis.ipynb) [Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
