@@ -10,6 +10,19 @@ The face recognition task was accomplished in this project by implementing Siame
 
 [GitHub](https://github.com/utkuozbudak/facial-recognition)
 
+## Classification Problems
+
+### Credit Card Fraud Detection
+In the Credit Card Fraud Detection project, I utilized the power of neural networks and PyTorch to develop an advanced system for detecting fraudulent transactions. This project not only involved preparing and processing the dataset, but also designing and training a PyTorch-based model. To ensure a modular and efficient implementation, I carefully separated functionalities into different scripts, from data downloading and setup, model building, training and evaluation functions, to various helper utilities. The end result was a robust fraud detection model demonstrating an impressive accuracy of 94%. Refer to below GitHub repository link to examine my methods and results in this deep learning project.
+
+[GitHub](https://github.com/utkuozbudak/fraud_detection) [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+### Wine Quality Prediction
+
+As a red wine enthusiast, I embarked on a quest to uncover the factors that contribute to a wine's quality. My Red Wine Quality Prediction project begins with exploratory data analysis, followed by the use of oversampling and SMOTE techniques to address class imbalance. I then trained and evaluated various models before selecting the best performer for further fine-tuning. Explore my process and findings in this exciting data-driven project from below links.
+
+[Nb Viewer](https://nbviewer.org/github/utkuozbudak/wine_quality_prediction/blob/main/wine_quality.ipynb) [GitHub](https://github.com/utkuozbudak/wine_quality_prediction) [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+
 ## Clustering Problems
 
 ### Customer Personality Analysis
@@ -17,13 +30,6 @@ The face recognition task was accomplished in this project by implementing Siame
 I am always thrilled to extract business strategies by analyzing customer data. In this project, I conducted a comprehensive exploratory data analysis using customer data to delve into various problems, such as why customers file complaints and what strategies can be employed to address them. Additionally, I employed clustering techniques to segment the customers into different clusters based on their characteristics. Using these clusters, I generated various marketing strategies that are tailored to the unique features of each group. Discover the process from below links (NbViewer is recommended for 3D plots).
 
 [Nb Viewer](https://nbviewer.org/github/utkuozbudak/customer_personality_analysis/blob/main/customer_analysis.ipynb) [GitHub](https://github.com/utkuozbudak/customer_personality_analysis) [Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
-## Classification Problems
-
-### Wine Quality Prediction
-
-As a red wine enthusiast, I embarked on a quest to uncover the factors that contribute to a wine's quality. My Red Wine Quality Prediction project begins with exploratory data analysis, followed by the use of oversampling and SMOTE techniques to address class imbalance. I then trained and evaluated various models before selecting the best performer for further fine-tuning. Explore my process and findings in this exciting data-driven project from below links.
-
-[Nb Viewer](https://nbviewer.org/github/utkuozbudak/wine_quality_prediction/blob/main/wine_quality.ipynb) [GitHub](https://github.com/utkuozbudak/wine_quality_prediction) [Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
 ## Regression Problems
 
